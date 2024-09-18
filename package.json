@@ -1,0 +1,20 @@
+{
+  "name": "zomatoapi",
+  "version": "1.0.0",
+  "description": "full stack api of zomato",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "restfull"
+  ],
+  "author": "\"anshita-dubey\"",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.5",
+    "prettier": "^3.3.3"
+  }
+}

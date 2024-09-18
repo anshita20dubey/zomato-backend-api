@@ -1,0 +1,3 @@
+initialize npm
+make .env and .env.sample
+install nodemon as dev dependencies
