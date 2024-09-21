@@ -1,3 +1,9 @@
-initialize npm
-make .env and .env.sample
-install nodemon as dev dependencies
+// initialize npm
+// make .env and .env.sample
+// install nodemon as dev dependencies
+// npm i -D packagename
+// create src and initial files
+// index/constants, app.js
+
+// .prettierrc and .prettierrcignore -> for maintaining and controlling format of the code if more than one user works
+// initialize repo, commit
