@@ -7,3 +7,12 @@
 
 // .prettierrc and .prettierrcignore -> for maintaining and controlling format of the code if more than one user works
 // initialize repo, commit
+
+
+// comapny me kese dusri branch bna ke commit krna h taki original ko kuch na ho
+// GIT CHECKOUT -B 'NAME'
+// GIT ADD.
+// GIT COMMIT -M "INITIAL NAME COMMIT"
+// GIT PUSH -U ORIGIN NAME
+
+// config controllers db models routes utils
